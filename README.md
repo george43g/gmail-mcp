@@ -1,5 +1,13 @@
 # Gmail MCP
 
+> **📦 This project has moved.** Development continues in the
+> [EQStack monorepo](https://github.com/george43g/EQStack) at
+> [`apps/gmail-mcp`](https://github.com/george43g/EQStack/tree/main/apps/gmail-mcp),
+> with full git history imported (2026-08-22). The npm package name is unchanged:
+> [`@george43g/gmail-mcp`](https://www.npmjs.com/package/@george43g/gmail-mcp).
+> This repository is frozen as the pre-migration history and review trail —
+> file issues and PRs against EQStack.
+
 [![CI](https://github.com/george43g/gmail-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/george43g/gmail-mcp/actions/workflows/ci.yml)
 
 A Gmail integration with 33 MCP tools, a scriptable `gmail` CLI, an interactive console, and a keyboard-driven terminal UI.

@@ -1,5 +1,11 @@
 # Gmail-MCP-Server — Agent Guide
 
+> **⚠ MIGRATED (2026-08-22): this checkout is frozen history.** The canonical home is the
+> EQStack monorepo — locally `~/repos/EQStack/apps/gmail-mcp`, remotely
+> `github.com/george43g/EQStack`. Full git history was imported there; this repo is retained
+> as the pre-migration review trail (feature branches on origin) and is pending archive.
+> **Do not develop here.** Everything below describes the pre-migration standalone repo.
+
 > `CLAUDE.md` is a symlink to this file, so Claude Code and other coding agents can share the same repository conventions.
 
 ## What this repo is
